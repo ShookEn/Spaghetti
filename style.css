@@ -1,0 +1,82 @@
+h1 {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 1.3cm;
+    background-size: 80%;
+   
+    
+}
+p1  {
+    font-family: 'Roboto';
+    font-size : 'larger';
+}
+
+p2
+{
+    font-family: 'roboto';
+    
+}
+body
+{
+    background-color:#F0F8FF;
+}
+
+ul.b {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#1C86EE;
+    font-size: 0.5cm;
+  }
+  
+  
+  
+  li2 a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: left;
+    float: left;
+  }
+  
+  li2 a:hover {
+    background-color: #111;
+    color: white;
+  }
+
+  img 
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ 
+  p3
+  {
+    font-family: 'Roboto';
+  }
+
+  h2
+  {
+    font-family:'Times New Roman';
+    font-size: 1.05cm;
+  }
+
+a
+{
+  text-decoration: none;
+}
+
+h2
+{
+  font-family: 'Times New Roman';
+    text-align: left;
+}
+
+li2
+{
+  
+}
